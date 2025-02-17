@@ -1,0 +1,10 @@
+.clock{
+    border: 10px solid black;
+    width: max-content;
+    padding: 1rem;
+    letter-spacing: 0.2rem;
+    background-color: cornsilk;
+    font-weight: bold;
+    border-radius: 1rem;
+    color: rgb(53, 3, 3);
+}
